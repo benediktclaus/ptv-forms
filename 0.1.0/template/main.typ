@@ -2,18 +2,14 @@
 #import "config.typ": *
 
 #show: ptv.with(
-  therapeut: [Hieronymus Bosch],
-  anrede: [Herr],
-  arztregister-nr: [12345],
-  berufsbezeichnung: [Psychologischer Psychotherapeut (VT)],
-  praxisadresse: [
-    Praxis für Psychologische Psychotherapie\
-    Sunset Boulevard 32\
-    12345 Hollywood
-  ],
-  stempel: [
-    Praxisstempel
-  ],
+  therapeut: therapeut,
+  anrede: anrede,
+  arztregister-nr: arztregister-nr,
+  berufsbezeichnung: berufsbezeichnung,
+  praxisadresse: praxisadresse,
+  stempel: stempel,
+
+  
   krankenkasse: [Musterkrankenkasse],
   krankenkasse-adresse: [
     Krankenkassenstr. 1\
