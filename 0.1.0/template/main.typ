@@ -1,4 +1,5 @@
 #import "@local/ptv-forms:0.1.0": *
+#import "config.typ": *
 
 #show: ptv.with(
   therapeut: [Hieronymus Bosch],
