@@ -404,7 +404,7 @@
       #checkbox("kombination", checks) Kombinationsbehandlung mit\
       #h(20pt) #checkbox("kombi-einzel", checks) Überwiegend Einzeltherapie\
       #h(20pt) #checkbox("kombi-gruppe", checks) Überwiegend Gruppentherapie\
-      #h(20pt) #checkbox("kombi-", checks) Kombinationsbehandlung\
+      #h(20pt) #checkbox("kombi-zwei", checks) Kombinationsbehandlung\
       #h(40pt) durch zwei Therapeuten/\
       #h(40pt) Therapeutinnen
     ]

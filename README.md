@@ -58,3 +58,20 @@ String | Checbox
 "ambulant-ja" | Ambulante Psychotherapie in den letzten 2 Jahren
 "ambulant-nein" | Keine ambulante Psychotherapie in den letzten 2 Jahren
 "f70" | Es liegt eine Diagnose nach F70-F79 (ICD-10-GM) vor
+"erw" | Für Erwachsene (Erw)
+"kiju" | Für Kinder und Jugendliche (KiJu)
+"ap" | Analytische Pschotherapie (AP)
+"tp" | Tiefenpsychologisch fundierte Therapie (TP)
+"vt" | Verhaltenstherapie (VT)
+"kzt1" | Kurzzeittherapie 1 (KZT 1)
+"kzt2" | Kurzzeittherapie 2 (KZT 2)
+"lzt" | Langzeittherapie (LZT) als
+"erstantrag" | Erstantrag
+"umwandlung" | Umwandlung
+"fortführung" | Fortführung
+"einzel" | Ausschließlich Einzeltherapie
+"gruppe" | Ausschließlich Gruppentherapie
+"kombination" | Kombinationsbehandlung mit
+"kombi-einzel" | Überwiegend Einzeltherapie
+"kombi-gruppe" | Überwiegend Gruppentherapie
+"kombi-zwei" | Kombinationsbehandlung durch zwei Therapeuten/Therapeutinnen
